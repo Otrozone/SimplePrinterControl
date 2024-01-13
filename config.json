@@ -1,0 +1,7 @@
+{
+    "api_key": "00000000000000000000000000000000",
+    "octoprint_url": "http://10.0.1.100",
+    "light_pin": 6,
+    "printer_pin": 26,
+    "printer_data_refresh_interval": 2000
+}
